@@ -1,5 +1,5 @@
 {
-    "name": "suma_resta",
+    "name": "suma_resta_multi",
     "description": "",
     "dependencies": {
         "core": "*",
